@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                 // Memberikan jarak vertikal setinggi 16 pixel
                 const Text(
                   // Menampilkan teks nama
-                  'Nama Anda',
+                  'Muhammad Athallah',
                   style: TextStyle(
                     fontSize: 24.0, 
                     // Ukuran font 24
@@ -75,7 +75,7 @@ class MyApp extends StatelessWidget {
                     // Memberikan jarak horizontal 8 pixel
                     const Text(
                       // Menampilkan teks email
-                      'emailanda@example.com',
+                      'muhammadathallah62@example.com',
                       style: TextStyle(
                         color: Colors.white, 
                         // Warna teks putih
